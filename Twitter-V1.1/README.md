@@ -1,3 +1,13 @@
 # Tweepy-API-V1.1-Client
-Python Client Files for Quering Twitter API V1.1  
-Tweepy library is used.
+Python Client for Quering Twitter API V1.1  
+
+## Python Imports
+- import tweepy  
+- from tweepy.streaming import StreamListener  
+- from tweepy import OAuthHandler  
+- from tweepy import Stream  
+
+- import numpy as np  
+- import pandas as pd  
+
+- import os
