@@ -1,0 +1,1711 @@
+[
+{
+    "data": {
+        "attachments": {},
+        "author_id": "1388953381180301313",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Top level interests and hobbies groupings, like Food or Travel",
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical"
+                },
+                "entity": {
+                    "description": "Family and Life Stages",
+                    "id": "864925500627484672",
+                    "name": "Family and life stages"
+                }
+            },
+            {
+                "domain": {
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                    "id": "66",
+                    "name": "Interests and Hobbies Category"
+                },
+                "entity": {
+                    "description": "Dads",
+                    "id": "847545883637891072",
+                    "name": "Dads"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:39.000Z",
+        "entities": {},
+        "geo": {},
+        "id": "1416095952524484611",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter for Android",
+        "text": "Please help me my father have been got a bp stock many much money we have lose in medical treatment but he didn't get well now we don't have money to eat how should we give treatment please help us we are from middle class family please help us anyone please for help we need help"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253896,
+            "tag": "monetary help 3"
+        },
+        {
+            "id": 1415940916473253897,
+            "tag": "monetary help 5"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "872142081678090242",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Brands and Companies",
+                    "id": "47",
+                    "name": "Brand"
+                },
+                "entity": {
+                    "description": "NPR",
+                    "id": "1065655657548832768",
+                    "name": "NPR"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:40.000Z",
+        "entities": {
+            "mentions": [
+                {
+                    "end": 4,
+                    "id": "5392522",
+                    "start": 0,
+                    "username": "NPR"
+                },
+                {
+                    "end": 13,
+                    "id": "302765767",
+                    "start": 5,
+                    "username": "OphiraE"
+                },
+                {
+                    "end": 30,
+                    "id": "2100521",
+                    "start": 14,
+                    "username": "jonathancoulton"
+                },
+                {
+                    "end": 47,
+                    "id": "385187734",
+                    "start": 31,
+                    "username": "NPRAskMeAnother"
+                },
+                {
+                    "end": 99,
+                    "id": "385187734",
+                    "start": 83,
+                    "username": "NPRAskMeAnother"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416095956987256835",
+        "in_reply_to_user_id": "872142081678090242",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "id": "1416078510427414528",
+                "type": "replied_to"
+            }
+        ],
+        "source": "Twitter Web App",
+        "text": "@NPR @OphiraE @jonathancoulton @NPRAskMeAnother Fans aren't the only ones who love @NPRAskMeAnother &amp; it's obvious that special guests love having a platform to promote their recent work and play fun games. If you want to help save the show, @ mention your favorite guest and ask them to RT &amp; share their AMA appreciation!"
+    },
+    "includes": {
+        "tweets": [
+            {
+                "attachments": {},
+                "author_id": "872142081678090242",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "description": "Brands and Companies",
+                            "id": "47",
+                            "name": "Brand"
+                        },
+                        "entity": {
+                            "description": "NPR",
+                            "id": "1065655657548832768",
+                            "name": "NPR"
+                        }
+                    }
+                ],
+                "created_at": "2021-07-16T16:53:21.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 9,
+                            "id": "5392522",
+                            "start": 5,
+                            "username": "NPR"
+                        },
+                        {
+                            "end": 52,
+                            "id": "302765767",
+                            "start": 44,
+                            "username": "OphiraE"
+                        },
+                        {
+                            "end": 75,
+                            "id": "2100521",
+                            "start": 59,
+                            "username": "jonathancoulton"
+                        },
+                        {
+                            "end": 208,
+                            "id": "385187734",
+                            "start": 192,
+                            "username": "NPRAskMeAnother"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "n.pr/2UFiqfF",
+                            "end": 248,
+                            "expanded_url": "http://n.pr/2UFiqfF",
+                            "start": 225,
+                            "status": 200,
+                            "title": "NPR | Contact Us",
+                            "unwound_url": "https://help.npr.org/contact/s/contact?request=Contact-NPR-management",
+                            "url": "https://t.co/5SqmhHwyr9"
+                        }
+                    ]
+                },
+                "geo": {},
+                "id": "1416078510427414528",
+                "lang": "en",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "like_count": 25,
+                    "quote_count": 2,
+                    "reply_count": 5,
+                    "retweet_count": 11
+                },
+                "source": "Twitter Web App",
+                "text": "Tell @NPR that we deserve nice things, that @OphiraE &amp; @jonathancoulton have created the one diverse, funny, feel-good corner of public radio, and you donate enough money for them to keep @NPRAskMeAnother on air! \n\nLink: https://t.co/5SqmhHwyr9"
+            }
+        ]
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253896,
+            "tag": "monetary help 3"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1226926541562667008",
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "6",
+                    "name": "Sports Event"
+                },
+                "entity": {
+                    "id": "1398013871458160644",
+                    "name": "London Marathon"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Top level interests and hobbies groupings, like Food or Travel",
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical"
+                },
+                "entity": {
+                    "description": "Hobbies and interests",
+                    "id": "847868745150119936",
+                    "name": "Home & family"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Top level interests and hobbies groupings, like Food or Travel",
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical"
+                },
+                "entity": {
+                    "description": "Fitness",
+                    "id": "872553326499422208",
+                    "name": "Fitness"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Top level interests and hobbies groupings, like Food or Travel",
+                    "id": "65",
+                    "name": "Interests and Hobbies Vertical"
+                },
+                "entity": {
+                    "description": "Wellness & Health",
+                    "id": "903303816698671104",
+                    "name": "Wellness and health"
+                }
+            },
+            {
+                "domain": {
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                    "id": "66",
+                    "name": "Interests and Hobbies Category"
+                },
+                "entity": {
+                    "description": "Exercises",
+                    "id": "872554146750017536",
+                    "name": "Exercises"
+                }
+            },
+            {
+                "domain": {
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                    "id": "66",
+                    "name": "Interests and Hobbies Category"
+                },
+                "entity": {
+                    "description": "Physical Wellness",
+                    "id": "918538775055048704",
+                    "name": "Physical Wellness"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                    "id": "67",
+                    "name": "Interests and Hobbies"
+                },
+                "entity": {
+                    "description": "Running",
+                    "id": "917496899715788801",
+                    "name": "Running"
+                }
+            },
+            {
+                "domain": {
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                    "id": "30",
+                    "name": "Entities [Entity Service]"
+                },
+                "entity": {
+                    "id": "1355177515921276929",
+                    "name": "Marathon running"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:44.000Z",
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "London Marathon",
+                    "probability": 0.3902,
+                    "start": 27,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 188,
+                    "start": 181,
+                    "tag": "donate"
+                },
+                {
+                    "end": 204,
+                    "start": 189,
+                    "tag": "londonmarathon"
+                },
+                {
+                    "end": 218,
+                    "start": 205,
+                    "tag": "disabilities"
+                },
+                {
+                    "end": 228,
+                    "start": 219,
+                    "tag": "PhabKids"
+                },
+                {
+                    "end": 234,
+                    "start": 229,
+                    "tag": "help"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416095974997565440",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter for iPhone",
+        "text": "Hey! My dad is running the London Marathon for a charity called PhabKids. If you could donate, even a small amount is really appreciated! The link to donate is in my bio! Thank you #donate #londonmarathon #disabilities #PhabKids #help"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253896,
+            "tag": "monetary help 3"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 172,
+                    "start": 164,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 185,
+                    "start": 173,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 192,
+                    "start": 186,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 201,
+                    "start": 193,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 207,
+                    "start": 202,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011634692099",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411019] \nPCMC Dhanashree Hospital\nVaccines: COVISHIELD,\nMin Age Limit: [45,18],\nDose1 Capacity: 18,99,\nDose2 Capacity: 43,24,\nDates Available: 17-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 168,
+                    "start": 160,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 181,
+                    "start": 169,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 188,
+                    "start": 182,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 197,
+                    "start": 189,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 203,
+                    "start": 198,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011655606274",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411001] \nPMC P N M Wadia Inst Of Cardi\nVaccines: COVISHIELD,\nMin Age Limit: [18],\nDose1 Capacity: 12,\nDose2 Capacity: 21,\nDates Available: 17-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 182,
+                    "start": 174,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 195,
+                    "start": 183,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 202,
+                    "start": 196,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 211,
+                    "start": 203,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 217,
+                    "start": 212,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011655684096",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411041] \nRurP/HAV/PHCKhadak/Navale Medi\nVaccines: COVISHIELD,\nMin Age Limit: [45,18],\nDose1 Capacity: 456,1199,\nDose2 Capacity: 369,85,\nDates Available: 17-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 174,
+                    "start": 166,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 187,
+                    "start": 175,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 194,
+                    "start": 188,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 203,
+                    "start": 195,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 209,
+                    "start": 204,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011450126339",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411017] \nPCMC Healing Touch Hospital\nVaccines: COVISHIELD,\nMin Age Limit: [18,45],\nDose1 Capacity: 133,0,\nDose2 Capacity: 0,60,\nDates Available: 17-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 202,
+                    "start": 194,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 215,
+                    "start": 203,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 222,
+                    "start": 216,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 231,
+                    "start": 223,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 237,
+                    "start": 232,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011689156608",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411045] \nPMC P Jupiter Hospital Baner\nVaccines: COVISHIELD,\nMin Age Limit: [18],\nDose1 Capacity: 36,192,321,\nDose2 Capacity: 0,44,48,\nDates Available: 17-07-2021,18-07-2021,19-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 167,
+                    "start": 159,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 180,
+                    "start": 168,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 187,
+                    "start": 181,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 196,
+                    "start": 188,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 202,
+                    "start": 197,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011240370177",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411014] \nPMC P Apollo Clinic Kharadi\nVaccines: COVISHIELD,\nMin Age Limit: [18],\nDose1 Capacity: 291,\nDose2 Capacity: 59,\nDates Available: 17-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 165,
+                    "start": 157,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 178,
+                    "start": 166,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 185,
+                    "start": 179,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 194,
+                    "start": 186,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 200,
+                    "start": 195,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011324313600",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411030] \nPMC P Apollo Spectra Sanas Gro\nVaccines: COVAXIN,\nMin Age Limit: [18],\nDose1 Capacity: 37,\nDose2 Capacity: 8,\nDates Available: 17-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 220,
+                    "start": 212,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 233,
+                    "start": 221,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 240,
+                    "start": 234,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 249,
+                    "start": 241,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 255,
+                    "start": 250,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011571712000",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411018] \nPCMC D Y Patil Hospital Pimpri\nVaccines: COVISHIELD,\nMin Age Limit: [18,45],\nDose1 Capacity: 1,48,134,36,184,\nDose2 Capacity: 76,2,101,90,195,\nDates Available: 16-07-2021,17-07-2021,18-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 230,
+                    "start": 222,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 243,
+                    "start": 231,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 250,
+                    "start": 244,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 259,
+                    "start": 251,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 265,
+                    "start": 260,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011689156609",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411038] \nPMC P Bsm-deenanath Hosp Pvt\nVaccines: COVISHIELD,\nMin Age Limit: [45,18],\nDose1 Capacity: 391,1129,1500,500,1498,\nDose2 Capacity: 1127,42,100,999,1000,\nDates Available: 17-07-2021,19-07-2021,20-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 171,
+                    "start": 163,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 184,
+                    "start": 172,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 191,
+                    "start": 185,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 200,
+                    "start": 192,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 206,
+                    "start": 201,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011743764480",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411001] \nPMC P Jehangir Hosp Sasoon Rd\nVaccines: COVISHIELD,\nMin Age Limit: [18,45],\nDose1 Capacity: 8,0,\nDose2 Capacity: 0,\nDates Available: 17-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 228,
+                    "start": 220,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 241,
+                    "start": 229,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 248,
+                    "start": 242,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 257,
+                    "start": 249,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 263,
+                    "start": 258,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011634626562",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411004] \nPMC P Oyster And Pearl Hospi\nVaccines: COVISHIELD,\nMin Age Limit: [18,45],\nDose1 Capacity: 243,88,89,217,671,184,\nDose2 Capacity: 193,131,112,197,252,\nDates Available: 16-07-2021,17-07-2021,18-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 219,
+                    "start": 211,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 232,
+                    "start": 220,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 239,
+                    "start": 233,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 248,
+                    "start": 240,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 254,
+                    "start": 249,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011580100610",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411030] \nPMC P Jupiter DES Clinic\nVaccines: COVISHIELD,\nMin Age Limit: [18],\nDose1 Capacity: 334,327,379,369,\nDose2 Capacity: 75,72,103,68,\nDates Available: 16-07-2021,17-07-2021,18-07-2021,19-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 167,
+                    "start": 159,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 180,
+                    "start": 168,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 187,
+                    "start": 181,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 196,
+                    "start": 188,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 202,
+                    "start": 197,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011609460737",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411037] \nPMC P Rao Hospital Bibwewadi\nVaccines: COVISHIELD,\nMin Age Limit: [18],\nDose1 Capacity: 46,\nDose2 Capacity: 72,\nDates Available: 17-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 169,
+                    "start": 161,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 182,
+                    "start": 170,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 189,
+                    "start": 183,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 198,
+                    "start": 190,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 204,
+                    "start": 199,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011563327489",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411030] \nPMC P Global Hospi Dattawadi\nVaccines: COVISHIELD,\nMin Age Limit: [18],\nDose1 Capacity: 693,\nDose2 Capacity: 692,\nDates Available: 17-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 186,
+                    "start": 178,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 199,
+                    "start": 187,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 206,
+                    "start": 200,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 215,
+                    "start": 207,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 221,
+                    "start": 216,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011605274624",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411004] \nPMC P Sahyadri Super Spe Decc\nVaccines: COVISHIELD,\nMin Age Limit: [18],\nDose1 Capacity: 169,83,\nDose2 Capacity: 88,95,\nDates Available: 16-07-2021,17-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 242,
+                    "start": 234,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 255,
+                    "start": 243,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 262,
+                    "start": 256,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 271,
+                    "start": 263,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 277,
+                    "start": 272,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011680849926",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[412307] \nPMC P Mahesh Smruti Hospital\nVaccines: COVISHIELD,\nMin Age Limit: [18],\nDose1 Capacity: 5,71,77,76,79,78,\nDose2 Capacity: 26,48,50,\nDates Available: 17-07-2021,18-07-2021,19-07-2021,20-07-2021,21-07-2021,22-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 178,
+                    "start": 170,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 191,
+                    "start": 179,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 198,
+                    "start": 192,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 207,
+                    "start": 199,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 213,
+                    "start": 208,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011634675714",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411014] \nKOTHARI CHARITABLE TRUST\nVaccines: COVAXIN,\nMin Age Limit: [18],\nDose1 Capacity: 38,91,\nDose2 Capacity: 65,100,\nDates Available: 17-07-2021,19-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 180,
+                    "start": 172,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 193,
+                    "start": 181,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 200,
+                    "start": 194,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 209,
+                    "start": 201,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 215,
+                    "start": 210,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011659866114",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411028] \nPMC P Sane Guruji Arogya Kendr\nVaccines: COVISHIELD,\nMin Age Limit: [45,18],\nDose1 Capacity: 122,351,\nDose2 Capacity: 74,93,\nDates Available: 17-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 176,
+                    "start": 168,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 189,
+                    "start": 177,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 196,
+                    "start": 190,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 205,
+                    "start": 197,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 211,
+                    "start": 206,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011567591424",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411039] \nPCMC Pritam Hospital\nVaccines: COVISHIELD,\nMin Age Limit: [18],\nDose1 Capacity: 13,83,\nDose2 Capacity: 45,95,\nDates Available: 17-07-2021,18-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+,{
+    "data": {
+        "attachments": {},
+        "author_id": "1399365636204023808",
+        "context_annotations": [
+            {
+                "domain": {
+                    "description": "Ongoing News Stories like 'Brexit'",
+                    "id": "123",
+                    "name": "Ongoing News Story"
+                },
+                "entity": {
+                    "id": "1220701888179359745",
+                    "name": "COVID-19"
+                }
+            }
+        ],
+        "created_at": "2021-07-16T18:02:53.000Z",
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 235,
+                    "start": 227,
+                    "tag": "VACCINE"
+                },
+                {
+                    "end": 248,
+                    "start": 236,
+                    "tag": "VACCINEPUNE"
+                },
+                {
+                    "end": 255,
+                    "start": 249,
+                    "tag": "COWIN"
+                },
+                {
+                    "end": 264,
+                    "start": 256,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 270,
+                    "start": 265,
+                    "tag": "PUNE"
+                }
+            ]
+        },
+        "geo": {},
+        "id": "1416096011668234243",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "source": "Twitter",
+        "text": "Pin Code:[411007] \nPMC P Kotbagi Hospital\nVaccines: COVISHIELD,\nMin Age Limit: [18,45],\nDose1 Capacity: 108,90,149,98,148,100,\nDose2 Capacity: 97,102,99,144,145,147,\nDates Available: 17-07-2021,19-07-2021,20-07-2021,21-07-2021\n#VACCINE #VACCINEPUNE #COWIN #COVID19 #PUNE"
+    },
+    "matching_rules": [
+        {
+            "id": 1415940916473253895,
+            "tag": "vaccination availability"
+        }
+    ]
+}
+]
