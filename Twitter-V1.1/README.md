@@ -2,6 +2,7 @@
 Python Client for Quering Twitter API V1.1  
 
 ## Python Imports
+- import os  
 - import tweepy  
 - from tweepy.streaming import StreamListener  
 - from tweepy import OAuthHandler  
@@ -10,4 +11,4 @@ Python Client for Quering Twitter API V1.1
 - import numpy as np  
 - import pandas as pd  
 
-- import os
+
